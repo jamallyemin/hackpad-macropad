@@ -15,6 +15,9 @@ it's a compact custom macropad featuring a rotary encoder, 0.91" OLED screen, WS
 ### pcb layout
 ![pcb](images/pcblayout.png)
 
+### kicad pcb layout
+![kicad pcb](images/kicad_pcb.png)
+
 ## features !!
 * **Seeed XIAO RP2040:** mounted at the top of the PCB for clean USB-C access.
 * **3x MX Switches:** mechanical key switches for your daily macros/shortcuts.
