@@ -6,6 +6,9 @@ it's a compact custom macropad featuring a rotary encoder, 0.91" OLED screen, WS
 
 ## pics !!
 
+### schematic
+![schematic](images/schematic.png)
+
 ### 3d case
 ![case](images/hackpad3dcase.png)
 
